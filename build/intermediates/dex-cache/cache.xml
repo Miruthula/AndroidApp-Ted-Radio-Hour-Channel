@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Miruthulavarshini\AndroidStudioProjects\homework5\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Miruthulavarshini\AndroidStudioProjects\homework5\app\build\intermediates\pre-dexed\debug\classes-78719373addd1631e25846e665284885d4593986.jar" />
+    </item>
+    <item
+        jar="C:\Users\Miruthulavarshini\AndroidStudioProjects\homework5\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="C:\Users\Miruthulavarshini\AndroidStudioProjects\homework5\app\build\intermediates\pre-dexed\debug\classes-0cc31a20185e178903542aae24c1d975284f5f60.jar" />
+    </item>
+    <item
+        jar="C:\Users\Miruthulavarshini\AndroidStudioProjects\homework5\app\libs\gson-2.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="C:\Users\Miruthulavarshini\AndroidStudioProjects\homework5\app\build\intermediates\pre-dexed\debug\gson-2.4-530a36767327413360d0ffbc303001b6b99cb62b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Miruthulavarshini\AndroidStudioProjects\homework5\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="C:\Users\Miruthulavarshini\AndroidStudioProjects\homework5\app\build\intermediates\pre-dexed\debug\classes-de3ec05563d60568ce8050d663db538c7fde1f64.jar" />
+    </item>
+    <item
+        jar="C:\Users\Miruthulavarshini\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Miruthulavarshini\AndroidStudioProjects\homework5\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-f0e43ebee15fda3feb6d5482e5e9c46fcdadd4b8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Miruthulavarshini\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Miruthulavarshini\AndroidStudioProjects\homework5\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-461e202f1b9a5c0f2de72ab56f722b76a8b7d866.jar" />
+    </item>
+    <item
+        jar="C:\Users\Miruthulavarshini\AndroidStudioProjects\homework5\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\Miruthulavarshini\AndroidStudioProjects\homework5\app\build\intermediates\pre-dexed\debug\classes-5ac6db09387923366971ae8cc47cedcce36b24d7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Miruthulavarshini\AndroidStudioProjects\homework5\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Miruthulavarshini\AndroidStudioProjects\homework5\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-a0f868b533c153e2327b3aa175f207645bc3f8cc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Miruthulavarshini\AndroidStudioProjects\homework5\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Miruthulavarshini\AndroidStudioProjects\homework5\app\build\intermediates\pre-dexed\debug\classes-93ac64781737651ec6498f03a8da4e5420e09819.jar" />
+    </item>
+
+</items>

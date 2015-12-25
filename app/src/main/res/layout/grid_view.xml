@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    tools:context="com.example.yzhuo.homework05.MainActivity">
+
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/gridViewMargin"
+        android:id="@+id/gridAll">
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tempImage">
+            <ImageView
+                android:id="@+id/gridImage"
+                android:layout_width="match_parent"
+                android:layout_height="140dp"
+                android:background="#000000"/>
+            <ImageView
+                android:id="@+id/gridPlay"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:layout_centerInParent="true"
+                android:src="@drawable/ic_action_play_white"
+                android:alpha="@string/transparentImage"/>
+        </RelativeLayout>
+        <TextView
+            android:id="@+id/gridTitle"
+            android:layout_below="@+id/tempImage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/title"
+            android:textColor="@color/blue"
+            android:textSize="@dimen/titleTextSize"/>
+
+    </RelativeLayout>
+
+
+</LinearLayout>
